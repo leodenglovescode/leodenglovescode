@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @leodenglovescode
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python and Js.
-- 💞️ I’m looking to collaborate on people who wants to build projects with me.
-- 📫 How to reach me: leodeng149149@gmail.com
+<h1>My Profile:</h1>
+Hi, I’m @leodenglovescode, an 12 year old developer who likes programming,
+I admire Linus Torvalds and also like to use ubuntu/fedora.<br>
+I mainly code in: Python, HTML, and CSS(a little)<br>
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodenglovescode&show_icons=true&theme=radical)
+
+![MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=leodenglovescode&layout=compact&theme=blue-green)
+
+
+
+<h1>📈 My Github Stats:</h1>
+
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodenglovescode&show_icons=true&theme=blue-green)
+
