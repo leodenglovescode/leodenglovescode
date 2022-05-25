@@ -2,7 +2,8 @@
 Hi, I’m @leodenglovescode, an 12 year old developer who likes programming,<br>
 I admire Linus Torvalds and also like to use ubuntu/fedora.<br>
 I mainly code in: Python, HTML, CSS, and JS(a little)<br>
-My Website: https://leosblog.xyz/<br><br>
+My Website: https://leosblog.xyz/<br>
+<img src="https://profile-counter.glitch.me/Christmas/count.svg"><br><br>
 
 
 <img src="https://img.shields.io/badge/So%20WOW-Much%20Fun-yellow"><br>
