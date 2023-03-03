@@ -11,7 +11,7 @@ My Website: https://leosblog.xyz/ 🚀🚀🚀</div>
 - 🌱 I’m currently learning Web-Developing aaand Python  
   
 
-- ⚡ Fun fact: I am a faithful lover of Half Life <br><br>
+- ⚡ Fun fact: I love Half Life <br><br>
 SUPRISE! You are the <img src="https://profile-counter.glitch.me/Christmas/count.svg"> visitor of my Github Profile Page<br><br>
 
 <h1>Social Media Fowllowers:</h1>
