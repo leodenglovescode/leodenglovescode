@@ -1,5 +1,5 @@
 # <div align="left">About me:
-Hello, stranger! I’m @leodenglovescode, an 12 year old developer👨‍💻 who likes programming,<br>
+Hello, stranger! I’m @leodenglovescode, an 13 year old developer👨‍💻 who likes programming,<br>
 I admire Linus Torvalds and also like to use ubuntu/fedora.<br>
 I mainly code in: Python, HTML, CSS, and JS(a little)<br>
 My Website: https://leosblog.xyz/ 🚀🚀🚀</div>  
@@ -11,7 +11,7 @@ My Website: https://leosblog.xyz/ 🚀🚀🚀</div>
 - 🌱 I’m currently learning Web-Developing aaand Python  
   
 
-- ⚡ Fun fact: I love Half Life <br><br>
+- ⚡ Fun fact: I love gAbEn's vAlVe GaMes<br><br>
 SUPRISE! You are the <img src="https://profile-counter.glitch.me/Christmas/count.svg"> visitor of my Github Profile Page<br><br>
 
 <h1>Social Media Fowllowers:</h1>
