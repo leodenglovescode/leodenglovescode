@@ -5,7 +5,8 @@ I mainly code in: Python, HTML, CSS, and JS(a little)<br>
 My Website: https://leosblog.xyz/ 🚀🚀🚀</div>  
   
 
--  I’m currently working on [ezCite (A Citation Generator)](https://github.com/leodenglovescode/ezcite)  
+-  I’m currently working on <br>
+-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leodenglovescode&repo=ezcite)<br><br>
   
 
 - 🌱 I’m currently learning Web-Developing aaand Python  
