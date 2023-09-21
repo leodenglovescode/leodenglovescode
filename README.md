@@ -2,7 +2,7 @@
 Hello, stranger! I’m @leodenglovescode, an 13 year old developer👨‍💻 who likes programming,<br>
 I admire Linus Torvalds and also like to use ubuntu/fedora.<br>
 I mainly code in: Python, HTML, CSS, and JS(a little)<br>
-My Website: https://leosblog.xyz/ 🚀🚀🚀</div>  
+My Website: https://leodengsblog.cn/ 🚀🚀🚀</div>  
   
 
 -  I’m currently working on <br>
