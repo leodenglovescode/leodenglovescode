@@ -12,7 +12,6 @@ My Website: https://leodengsblog.cn/ 🚀🚀🚀</div>
 - 🌱 I’m currently learning Web-Developing aaand Python  
   
 
-- ⚡ Fun fact: I love gAbEn's vAlVe GaMes<br><br>
 SUPRISE! You are the <img src="https://profile-counter.glitch.me/Christmas/count.svg"> visitor of my Github Profile Page<br><br>
 
 <h1>Social Media Fowllowers:</h1>
