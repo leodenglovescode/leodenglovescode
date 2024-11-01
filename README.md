@@ -16,7 +16,6 @@ My Blog Website:<br>https://leodengsblog.cn/<br>🚀🚀🚀</div><br><br>
 🌱 I’m currently learning NodeJS and Python  
 <br><br>
 
-SUPRISE! You are the number <img src="https://profile-counter.glitch.me/Christmas/count.svg"> visitor of my Github Profile Page<br><br>
 <br><br>
 
 <h2>Soooooocials:</h2>
@@ -30,7 +29,9 @@ SUPRISE! You are the number <img src="https://profile-counter.glitch.me/Christma
 
 <h2>📈 My Github Stats:</h2>
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodenglovescode&show_icons=true&theme=blue-green)<br>
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodenglovescode&show_icons=true&theme=blue-green)<br><br><br><br>
 ![MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=leodenglovescode&layout=compact&theme=blue-green)
-
+<br><br><br><br>
+Visitor Number: <img src="https://profile-counter.glitch.me/Christmas/count.svg">
 </div>
+
