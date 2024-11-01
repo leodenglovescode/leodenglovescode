@@ -21,7 +21,9 @@ My Blog Website:<br>https://leodengsblog.cn/<br>🚀🚀🚀</div><br><br>
 <br><br>
 
 <h2>Soooooocials:</h2>
+<a href="https://x.com/Leodeng14">
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/leodeng14?style=social&logo=x&logoColor=black">
+</a>
 <br><br>
 <img alt="Discord Status" src="https://dcbadge.limes.pink/api/shield/leodeng_hack"><br>
 <br><br>
