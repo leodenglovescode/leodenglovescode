@@ -9,7 +9,9 @@ My Blog Website:<br>https://leodengsblog.cn/<br>🚀🚀🚀</div><br><br>
   
 <div align="center">
 👨🏻‍💻I am currently working on: <br><br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leodenglovescode&repo=cs2servermanager" alt="Repository Readme Card"><br><br>
+<a href="https://github.com/leodenglovescode/cs2servermanager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leodenglovescode&repo=cs2servermanager" alt="Repository Readme Card"><br><br>
+</a>
 <br><br>
   
 
@@ -19,11 +21,12 @@ My Blog Website:<br>https://leodengsblog.cn/<br>🚀🚀🚀</div><br><br>
 <br><br>
 
 <h2>Soooooocials:</h2>
-<img src="https://img.shields.io/twitter/follow/leodeng14?style=for-the-badge&logo=X"><br>
-<img src="https://img.shields.io/badge/So%20WOW-Much%20Fun-yellow">
-<img src="https://img.shields.io/badge/dynamic/json?color=3388CC&label=Twitter&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DLeodeng14">
-<img src="https://img.shields.io/badge/dynamic/json?color=000000&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dleodenglovescode?style=plastic&logo=github">
-<img src="https://img.shields.io/badge/dynamic/json?color=ff69b4&label=Bilibili&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D612759517?style=plastic&logo=bilibili"><br><br>
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/leodeng14?style=social&logo=x&logoColor=black">
+<br><br>
+<img alt="Discord Status" src="https://dcbadge.limes.pink/api/shield/leodeng_hack"><br>
+<br><br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/leodenglovescode?style=for-the-badge&logo=github"><br>
+<br><br>
 
 
 
