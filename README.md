@@ -1,7 +1,7 @@
 # <div align="center">Welcome to my Profile!</div>  
 
 
-<div align="center">Hi! I’m @leodenglovescode, an 14 year old front-end developer👨‍💻<br>
+<div align="center">Hi! I’m @leodenglovescode, an 15 year old front-end developer👨‍💻<br>
 who likes biking, gaming, and listening to music.<br>
 My favorite programmer is: Linus Torvalds,<br>
 and I mainly code in Python, HTML, CSS, and a bit of JS.<br><br>
