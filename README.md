@@ -14,8 +14,7 @@ People that I admire: Linus Torvalds, Elon Musk, Jensen Huang.<br><br>
 
 <h2>👨🏻‍💻I am currently working on: </h2><br><br>
 <a href="https://github.com/leodenglovescode/cs2servermanager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leodenglovescode&repo=cs2servermanager" alt="Repository Readme Card">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leodenglovescode&repo=QuanQuanVFP" alt="Repository Readme Card"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leodenglovescode&repo=swphotos" alt="Repository Readme Card">
 </a><br>
 
 <br><br>
