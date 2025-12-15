@@ -13,14 +13,14 @@ People that I admire: Linus Torvalds, Elon Musk, Jensen Huang.<br><br>
   
 
 <h2>👨🏻‍💻I am currently working on: </h2><br><br>
-<a href="https://github.com/leodenglovescode/cs2servermanager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leodenglovescode&repo=swphotos" alt="Repository Readme Card">
+<a href="https://github.com/leodenglovescode/">
+  <img src="https://github-readme-stats-olive-seven-45.vercel.app/api/pin/?username=leodenglovescode&repo=swphotos" alt="Repository Readme Card">
 </a><br>
 
 <br><br>
   
 
-<h3>🌱 I’m currently learning... NodeJS and Python</h3>
+<h3>🌱 I’m currently learning... React, NodeJS, and Python</h3>
 <br><br>
 
 <br><br>
@@ -29,6 +29,5 @@ People that I admire: Linus Torvalds, Elon Musk, Jensen Huang.<br><br>
 
 
 <br><br><br><br>
-Visitor Number: <img src="https://profile-counter.glitch.me/Christmas/count.svg">
 </div>
 
