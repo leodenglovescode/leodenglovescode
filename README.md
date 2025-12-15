@@ -9,7 +9,7 @@ People that I admire: Linus Torvalds, Elon Musk, Jensen Huang.<br><br>
 <div align="center">
   
 ![Leo's GitHub stats](https://github-readme-stats-olive-seven-45.vercel.app/api?username=leodenglovescode&show_icons=true&theme=blue-green)<br>
-![MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=leodenglovescode&layout=compact&theme=blue-green)
+![MUL](https://github-readme-stats-olive-seven-45.vercel.app/api/top-langs/?username=leodenglovescode&layout=compact&theme=blue-green)
   
 
 <h2>👨🏻‍💻I am currently working on: </h2><br><br>
