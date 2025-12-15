@@ -4,8 +4,8 @@
 <div align="center">Hi! I’m @leodenglovescode, an 15 year old (almost 16) front-end (and a bit back-end) developer👨‍💻<br>
 who likes Aviation Photography, F1, Biking, Gaming, and Music.
 I mainly code in Python, HTML, CSS, and a bit of JS.<br><br>
-People that I admire: Linus Torvalds, Elon Musk, Jensen Huang.<br><br>
-<h3>My Blog Website: 🚀🚀 https://leodengsblog.cn/ 🚀🚀</h3></div>
+<h3>My Blog Website: 🚀 leodengsblog.cn 🚀</h3></div>
+<h3>ShutterWingPhotos (my Main Project): ✈️ shutterwingphotos.cn ✈️</h3></div>
 <div align="center">
   
 ![Leo's GitHub stats](https://github-readme-stats-olive-seven-45.vercel.app/api?username=leodenglovescode&show_icons=true&theme=blue-green)<br>
@@ -13,9 +13,9 @@ People that I admire: Linus Torvalds, Elon Musk, Jensen Huang.<br><br>
   
 
 <h2>👨🏻‍💻I am currently working on: </h2><br><br>
-<a href="https://github.com/leodenglovescode/">
-  <img src="https://github-readme-stats-olive-seven-45.vercel.app/api/pin/?username=leodenglovescode&repo=swphotos" alt="Repository Readme Card">
-</a><br>
+ShutterWingPhotos - A Beginner Friendly Aviation/Railway image upload/hosting website!<br>
+<a href= "https://shutterwingphotos.cn">https://shutterwingphotos.cn</a><br>
+<br>
 
 <br><br>
   
