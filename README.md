@@ -6,7 +6,7 @@
 who likes Aviation Photography, F1, Biking, Gaming, and Music.
 I mainly code in Python, HTML, CSS, and a bit of JS.<br><br>
 <h3>My Blog Website: 🚀 leodengsblog.cn 🚀</h3>
-<h3>ShutterWingPhotos (my Main Project): ✈️ shutterwingphotos.cn ✈️</h3><br>
+<h3>ShutterWingPhotos (my Main Project): ✈️ <a href = "https://shutterwingphotos.cn">shutterwingphotos.cn</a> ✈️</h3><br>
 </div>
 
 <div align="center">
