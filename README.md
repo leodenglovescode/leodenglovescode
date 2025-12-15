@@ -1,4 +1,6 @@
-# <div align="center">Welcome to my Profile!</div>  
+<div align="center"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=F7D72F&center=true&vCenter=true&width=439&lines=Hi%2C+I'm+%40leodenglovescode!" alt="Typing SVG" /></a>
+</div>
 
 
 <div align="center">Hi! I’m @leodenglovescode, an 15 year old (almost 16) front-end (and a bit back-end) developer👨‍💻<br>
