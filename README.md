@@ -3,7 +3,7 @@
 </div>
 
 
-<div align="center">Hi! I’m @leodenglovescode, an 15 year old (almost 16) front-end (and a bit back-end) developer👨‍💻<br>
+<div align="center">Hi! I’m @leodenglovescode, an 16 year old front-end (and a bit back-end) developer👨‍💻<br>
   
 who likes Aviation Photography, F1, Biking, Gaming, and Music.
 I mainly code in Python, HTML, CSS, and a bit of JS.<br><br>
