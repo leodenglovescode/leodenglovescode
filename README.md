@@ -7,7 +7,7 @@
   
 who likes Aviation Photography, F1, Biking, Gaming, and Music.
 I mainly code in Python, HTML, CSS, and a bit of JS.<br><br>
-<h3>My Website: leodeng.dev</h3>
+<h3>My Website: <a href = "https://leodeng.dev">leodeng.dev</a></h3>
 <h3>ShutterWingPhotos (my Main Project): <a href = "https://shutterwingphotos.cn">shutterwingphotos.cn</a> ✈️</h3><br>
 </div>
 
