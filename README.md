@@ -1,5 +1,5 @@
 <div align="center"
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=F7D72F&center=true&vCenter=true&width=439&lines=Hi%2C+I'm+%40leodenglovescode!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=F7D72F&center=true&vcenter=true&width=439&lines=Hi%2C+I'm+%40leodenglovescode!" alt="Typing SVG" /></a>
 </div>
 
 
@@ -7,8 +7,10 @@
   
 who likes Aviation Photography, F1, Biking, Gaming, and Music.
 I mainly code in Python, HTML, CSS, and a bit of JS.<br><br>
-<h3>My Website: <a href = "https://leodeng.dev">leodeng.dev</a></h3>
-<h3>ShutterWingPhotos (my Main Project): <a href = "https://shutterwingphotos.com">shutterwingphotos.com</a> ✈️</h3><br>
+<h3>My Website: <a href = "https://leodeng.dev">leodeng.dev</a></h3><br><br>
+<h3>Projects:</h3>
+<h3>ShutterWingPhotos - A beginner friendly aviation/railway image platform: <a href = "https://shutterwingphotos.com">shutterwingphotos.com</a> ✈️</h3>
+<h3>llmgps - a smart routing/debate multi-llm workspace: <a href = "https://github.com/leodenglovescode/llmgps">llmgps</a></h3><br>
 </div>
 
 <div align="center">
