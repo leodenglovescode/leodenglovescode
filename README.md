@@ -3,10 +3,9 @@
 </div>
 
 
-<div align="center">Hi! I’m @leodenglovescode, an 16 year old front-end (and a bit back-end) developer👨‍💻<br>
+<div align="center">Hi! I’m @leodenglovescode, an 16 year old full-stack developer👨‍💻<br>
   
 who likes Aviation Photography, F1, Biking, Gaming, and Music.
-I mainly code in Python, HTML, CSS, and a bit of JS.<br><br>
 <h3>My Website: <a href = "https://leodeng.dev">leodeng.dev</a></h3><br><br>
 <h3>Projects:</h3>
 <h3>ShutterWingPhotos - A beginner friendly aviation/railway image platform: <a href = "https://shutterwingphotos.com">shutterwingphotos.com</a> ✈️</h3>
