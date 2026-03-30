@@ -33,8 +33,8 @@
 
 #### [ShutterWingPhotos](https://shutterwingphotos.com)
 **A platform for aviation and railway photography enthusiasts.**
-* **1,500+** Registered Users
-* **14,000+** High-Resolution Photos Hosted
+* **1,600+** Registered Users
+* **14,700+** High-Resolution Photos Hosted
 * *Stack:* React + Vite (Frontend), Node.js (Backend), PostgreSQL (DB)
 
 #### [llmgps](https://github.com/leodenglovescode/llmgps)
