@@ -31,12 +31,6 @@
 
 ### Featured Projects
 
-#### [ShutterWingPhotos](https://shutterwingphotos.com)
-**A platform for aviation and railway photography enthusiasts.**
-* **1,900+** Registered Users
-* **17,700+** Aviation&Railway Photos Hosted
-* *Stack:* React + Vite (Frontend), Node.js (Backend), PostgreSQL (DB)
-
 #### [llmgps](https://github.com/leodenglovescode/llmgps)
 **Smart routing and multi-LLM workspace.**
 * Designed for complex prompting, AI model comparisons, and agentic debating.
