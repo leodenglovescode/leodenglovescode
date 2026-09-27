@@ -5,7 +5,7 @@
 
   <p>
     Full-stack developer based in Beijing<br>
-    Aviation Photography | F1 | Biking | Self-Hosting
+    Photography | Self-Hosting | Computers | F1
   </p>
 
   <h3><a href="https://leodeng.dev">leodeng.dev</a></h3>
