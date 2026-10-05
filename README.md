@@ -57,7 +57,3 @@
 * React/Vue and Next.js for high-scale web apps.
 * CI/CD Pipelines for self-hosting.
 * Agentic Debating
-
-<div align="center">
-  <p><i>Code assisted by LLMs</i></p>
-</div>
